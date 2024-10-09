@@ -1,0 +1,9 @@
+We will design a play function so it takes three parameters:
+1. A target
+2. A guess
+3. Number of the attempt
+  
+It will return the number of attempts the player has used (given attempts + 1),
+array/list of Responses for Matches,
+game stats (win, loss, or in progress),
+and a message text for the win, loss, or empty
